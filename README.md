@@ -2,7 +2,9 @@
 
 ### Set-up
 python3 manage.py migrate
+
 python3 manage.py makemigrations polls
+
 python3 manage.py migrate
 
 ### Run Server
